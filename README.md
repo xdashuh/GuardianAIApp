@@ -69,7 +69,7 @@ For more information on the Guardian AI API, please refer to our [API Documentat
 
 👤 Author
 --------
-Guardian AI is maintained by [Your Name](https://example.com).
+Guardian AI is maintained by [Ashutosh](https://example.com).
 
 📝 License
 --------
